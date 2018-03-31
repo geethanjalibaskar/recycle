@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="address" type="id" />
+    <item name="phoneno" type="id" />
+    <item name="id" type="id" />
+    <item name="userIdUpdate" type="id" />
+    <item name="userPhonenoUpdate" type="id" />
+    <item name="userAddressUpdate" type="id" />
+    <item name="userAge" type="id" />
+</resources>

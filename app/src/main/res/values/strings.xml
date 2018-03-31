@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">recycle</string>
+    <string name="add_new_user">Add new user</string>
+    <string name="name">Name</string>
+    <string name="id">Id</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone No</string>
+    <string name="url">Image profile url</string>
+    <string name="add_user">Add user</string>
+    <string name="update_user">Update user</string>
+
+</resources>
